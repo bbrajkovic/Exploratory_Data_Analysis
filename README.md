@@ -21,7 +21,12 @@
 ## Content of the repository
 - "master_script.R" - script to load the data and to call individual plotting scripts
 - "data_loading_script.R" - script to load the data from "household_power_consumption.txt" file
+- ~~"data_loading_script_v2.R" - v2 of script to load the data from "household_power_consumption.txt" file~~
 - "plot1.R" - script to plot 1st chart from project deliverables
 - "plot2.R" - script to plot 2nd chart from project deliverables
 - "plot3.R" - script to plot 3rd chart from project deliverables
 - "plot4.R" - script to plot 4th chart from project deliverables
+- "plot1.png" - output chart of "plot1.R" script
+- "plot2.png" - output chart of "plot2.R" script
+- "plot3.png" - output chart of "plot3.R" script
+- "plot4.png" - output chart of "plot4.R" script
