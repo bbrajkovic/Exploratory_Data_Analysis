@@ -8,7 +8,10 @@
 5. Add the PNG file and R code file to your git repository
 
 ## Project deliverables
-1. Global Active Power plot
+1. Global Active Power Histogram with red columns
+2. Global Active Power line plot for consumption over period of time
+3. Global Active Power line plot for sub_meter consumption over period of time
+4. Dashboard with 4 different line plots with different variables and formatting
 
 ## Code logic description
 1. All 4 plots from project requirements can be created by running "master_script.R" which calls individual scripts
@@ -16,5 +19,9 @@
 
 
 ## Content of the repository
+- "master_script.R" - script to load the data and to call individual plotting scripts
 - "data_loading_script.R" - script to load the data from "household_power_consumption.txt" file
-- "plot1.R" - script to plot 1st chart from project requirements
+- "plot1.R" - script to plot 1st chart from project deliverables
+- "plot2.R" - script to plot 2nd chart from project deliverables
+- "plot3.R" - script to plot 3rd chart from project deliverables
+- "plot4.R" - script to plot 4th chart from project deliverables
